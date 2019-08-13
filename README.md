@@ -20,3 +20,10 @@ To run the code, you will download the various files and run the app.py to get t
 * Python [3.7.1]
 * Jupyter [5.7.4]
 * Mongo dB
+
+### Contributing Team
+
+* Maura Wernimont
+* Alissa Waddell
+* Ryan Gfeller
+* Claudia Gomez-Beltran
